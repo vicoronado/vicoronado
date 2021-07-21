@@ -3,7 +3,7 @@
 
 - 🌿 Mis pronombres: Ella/la
 - ❤ Actualmente estoy estudiando **Java**
-- ✊ Cuando no estoy trabajando, podes encontrarme haciendo activismo por la justicia social, lxs animales no humanxs y contra el cambio climático en FAIR Argentina.
+- ✊ Cuando no estoy trabajando, podes encontrarme haciendo activismo por la justicia social, lxs animales no humanxs y contra el cambio climático en [https://fairargentina.com/]FAIR Argentina.
 
 ### Mis competencias 🖥
 

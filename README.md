@@ -1,5 +1,5 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-  # ¡Hola! Soy Victoria y trabajo como Software Developer Analyst 👋
+  # ¡Hola! Soy Victoria y trabajo como Software Developer 👋
 
 - 🌿 Mis pronombres: Ella/la
 - ❤ Actualmente estoy estudiando **Java**
